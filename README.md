@@ -16,4 +16,4 @@ npm run dev
 ให้นศ.ศึกษาวิธีการ build ใน **codesandbox.io** ได้จาก slide **Slide 10 - React Part One (extras)**
 
 (ใส่ URL ที่นี่)
-https://codesandbox.io/p/github/cpe-cmu-261207/lab-08-BoegyNat/draft/prod-cookies?file=%2FREADME.md&workspace=%257B%2522activeFileId%2522%253A%2522cl7sqyafj000rlmjqciol43q7%2522%252C%2522openFiles%2522%253A%255B%255D%252C%2522sidebarPanel%2522%253A%2522EXPLORER%2522%252C%2522gitSidebarPanel%2522%253A%2522COMMIT%2522%252C%2522sidekickItems%2522%253A%255B%257B%2522key%2522%253A%2522cl7sqydl3006j356h67m0ch8p%2522%252C%2522type%2522%253A%2522PROJECT_SETUP%2522%252C%2522isMinimized%2522%253Afalse%257D%252C%257B%2522type%2522%253A%2522PREVIEW%2522%252C%2522taskId%2522%253A%2522dev%2522%252C%2522port%2522%253A3000%252C%2522key%2522%253A%2522cl7sqykpk00dj356h95p717hr%2522%252C%2522isMinimized%2522%253Afalse%257D%252C%257B%2522type%2522%253A%2522TASK_LOG%2522%252C%2522taskId%2522%253A%2522dev%2522%252C%2522key%2522%253A%2522cl7sqyj1c00a7356h20xqh1lh%2522%252C%2522isMinimized%2522%253Afalse%257D%255D%257D
+https://codesandbox.io/s/stoic-farrell-et9hw7
